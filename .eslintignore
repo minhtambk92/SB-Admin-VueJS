@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+src/assets/vendor/jquery/*.js
+src/assets/vendor/bootstrap/js/*.js
+src/assets/vendor/metisMenu/*.js
+src/assets/js/*.js
